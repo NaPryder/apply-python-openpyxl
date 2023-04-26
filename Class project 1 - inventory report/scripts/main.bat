@@ -1,0 +1,1 @@
+py "D:\Projects\Road to Advanced Python\Chapter 2\Class project 1 - inventory report\scripts\main.py"
